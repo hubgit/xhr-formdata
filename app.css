@@ -1,0 +1,15 @@
+body {
+  font-family: "Helvetica", sans-serif;
+}
+
+body > * {
+  margin-bottom: 10px;
+}
+
+.dropzone { 
+  height: 200px;
+  width: 200px;
+  border: 4px dashed #aaa;
+  border-radius: 20px;
+  background: #eee;
+}
